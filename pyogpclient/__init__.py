@@ -1,0 +1,2 @@
+from pyogpclient.OGPClient import OGPClient
+from pyogpclient.OGPClient import FULL_OGP_QUERY
